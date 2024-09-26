@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
+}
+
+.nav-link {
+  display: block;
+  padding: 5px;
+  background-color: #0c197c;
+  color: white;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 25px 10px;
+  text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+  background-color: #75c9e8;
+  color: white;
+}
+
+.active{
+  background-color: #aeb3b660;
+  color: white;
+}
