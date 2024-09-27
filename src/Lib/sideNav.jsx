@@ -7,7 +7,7 @@ const SideNav = () => {
                 <div className="container-fluid">
                     <a className="nav-link">
                         <img src="" alt="" />
-                        <h1><strong>AGP-TECH</strong></h1>
+                        <h1>AGP-TECH</h1>
                     </a>
                 </div>
             </nav>
